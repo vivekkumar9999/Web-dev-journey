@@ -1,0 +1,13 @@
+/* when we apply universalselector proper
+ty on page then it is for whole html properties and entities */
+*{
+    color: aquamarine;
+}
+ /* Element Selector- - this is use for same type for all element */
+ input{
+    background-color: cornflowerblue;
+ }
+/* id selector- this type of selector is use for the select specific element  */
+  #para{
+    color: brown;
+  }

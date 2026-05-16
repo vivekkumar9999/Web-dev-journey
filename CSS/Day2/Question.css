@@ -1,0 +1,13 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.button{
+    color:aqua;
+}
+
+#heading{
+   color: #1b74e4
+}
+  #search{
+    color: black;
+  }
