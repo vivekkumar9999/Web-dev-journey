@@ -1,0 +1,21 @@
+#outer{
+    height: 200px;
+    border: 2px solid black;
+    width: 100px;
+}
+ .inner{
+    height: 60px;
+    border: 2px solid black;
+     border-radius: 50px;
+    margin-top: 3px;
+
+ }
+ #red{
+    background-color: red;
+ }
+ #yellow{
+    background-color: yellow;
+ }
+  #green{
+    background-color: green;
+  }
