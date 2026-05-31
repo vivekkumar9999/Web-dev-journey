@@ -1,0 +1,20 @@
+  h1{
+    color: blue;
+    text-align: center;
+    font-weight: 300;
+    /* font-size: medium; */
+    text-decoration: dotted;
+    line-height: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   p{
+    text-decoration: dotted;
+   }
+    h2{
+        color: rgb(23, 89,67);
+    }
+     h3{
+        color: #ffa;
+     }
+      
+ 
