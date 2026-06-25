@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+.calendar{
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+}
+
+#date{
+    font-size: 50px;
+    margin: 10px;
+}
